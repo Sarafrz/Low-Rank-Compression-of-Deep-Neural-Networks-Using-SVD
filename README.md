@@ -15,7 +15,7 @@ The project includes:
 - Accuracy vs compression rate visualization
 
 ## Files
-- `code2.ipynb`: Main notebook containing all experiments and analysis
+- `NoteBook.ipynb`: Main notebook containing all experiments and analysis
 
 ## Dataset
 The CIFAR-10 dataset is automatically downloaded using PyTorch and is **not included** in this repository.
